@@ -1,6 +1,6 @@
 # Hello World!, I'm Oshan, a Software Development Engineer 👋
 
-Welcome to my GitHub profile! I'm an Enthusiastic Software Development Engineer, currently at Micron Technology Inc. working on High Volume Manufacturing of next generation of Storage Solutions and Memory.
+Welcome to my GitHub profile! I'm an Enthusiastic Software Development Engineer, currently at Micron, working on High Volume Manufacturing of next generation of Storage Solutions and Memory.
 
 ## 🚀 Skills
 🖥️ Backend
